@@ -1,12 +1,13 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-&nbsp; <br> [![Discord Presence](https://lanyard.cnrad.dev/api/766551878187352064)](https://discord.com/users/766551878187352064)
+    
+&nbsp; <br> [![Discord Presence](https://lanyard.cnrad.dev/api/732450729301639168)](https://discord.com/users/732450729301639168)
     
   </td>
 </table>
 
-## Hello my name is Lunny Akemi.
+## Hello my name is Lunny Akemi
 Im a Brazilian reverse engineer
 
 ## Programming Languages
