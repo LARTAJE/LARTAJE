@@ -1,7 +1,8 @@
+# Lunny
+
 <table width="100%"> 
   <tr>
   <td width="50%">
-# Lunny 
 &nbsp; <br> [![Discord Presence](https://lanyard.cnrad.dev/api/766551878187352064)](https://discord.com/users/766551878187352064)
     
   </td>
